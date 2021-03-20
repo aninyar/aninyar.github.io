@@ -2,7 +2,7 @@
  <!?
  setTimeout(“link()”, 0);
  function link(){
- location.href=’http:www.aninyar.cf’;
+ location.href=’http://www.aninyar.cf’;
  }
  ?>
  </script>
